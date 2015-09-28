@@ -22,7 +22,7 @@ Thanks to all [contributors](https://github.com/ruby-vietnam/awesome-web-fronten
 
 ## eBooks
 
-* [Styling with SASS by Julio Ceasar](http://http://juliocesar.github.io/styling-with-sass)
+* [Styling with SASS by Julio Caesar](http://http://juliocesar.github.io/styling-with-sass)
 
 ## Tutorials
 
